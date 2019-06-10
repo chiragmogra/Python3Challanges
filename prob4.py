@@ -11,7 +11,7 @@ while i<uno:
 		ulist.append(uname)
 		i+=1
 	else:
-		print("uname is not valid(It does not consist numbers)")
+		print("uname is not valid (It does not consist numbers)")
 
 for i in ulist:
 	pas="hello"+i
