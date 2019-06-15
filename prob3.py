@@ -10,6 +10,6 @@ for i in adhoc:
 		print(i)
 		l2.append(i)
 print("List of values greater than 5 ",l1)
-print("List of values less than or equals to 2 ",l2)
+print("List of values less than or equals to 2 ",l2) 
 		
 
